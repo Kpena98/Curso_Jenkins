@@ -3,9 +3,9 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.example.poc.consorcio</groupId>
+  <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
-  <packaging>WAR</packaging>
+  <packaging>pom</packaging>
   <version>1.0.0</version>
   <name>Maven Project</name>
   <description>Curso jenkins 2021.</description>
